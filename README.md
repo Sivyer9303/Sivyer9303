@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there,I'm Sivyer 👋 
+- 🔭 I’m currently working on my own project.[simpleRouter](https://github.com/Sivyer9303/simpleRouter) 
+- 🌱 I’m currently learning golang & java.
+- 💬 Ask me about anything by sending me email.
+- ⚡ The more i know,The more i want to know
 
 <!--
 **Sivyer9303/Sivyer9303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

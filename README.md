@@ -1,6 +1,6 @@
 ### Hi there,I'm Sivyer 👋 
 - 🔭 I’m currently working in Chongho Bridge.
-- 🌱 I’m currently learning golang & java.
+- 🌱 I’m currently learning and working with golang & java.
 - 💬 Ask me about anything by sending me email(Gmail(sivyer9303@gmail.com) / 163(sivyer9303@163.com)) or Wechat(siyver_wang).
 - ⚡ The more i know,The less i know.
 - 🤔 I am interested in open source.
